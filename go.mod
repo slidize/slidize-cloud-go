@@ -1,4 +1,4 @@
-module github.com/slidize/slidize-cloud-go/slidizecloud
+module github.com/slidize/slidize-cloud-go/v24
 
 go 1.18
 
